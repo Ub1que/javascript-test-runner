@@ -17,4 +17,12 @@ export class ConfigurationProvider {
   get additionalArguments(): string {
     return this.configuration.get("additionalArgs");
   }
+
+  get testRunner(): string {
+    return this.configuration.get("testRunner");
+  }
+
+  get workFolder(): string {
+    return this.configuration.get("workFolder", "");
+  }
 }
