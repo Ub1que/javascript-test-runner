@@ -1,3 +1,6 @@
+This extension is adapted from https://github.com/g3offrey/javascript-test-runner 
+also thx to https://github.com/modelga for Ava test runner code
+
 # JavaScript Test Runner
 [![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors)
 

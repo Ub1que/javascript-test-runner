@@ -3,6 +3,12 @@ All notable changes to the "javascript-test-runner" extension will be documented
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.0] - 2019-05-19
+- Ava test runner added
+- Ability to set runner in configuration
+- Ability to set path of app if distinct from workspace folder
+ 
+
 ## [1.0.0] - 2018-07-22
 - Improve test token detection
 - Add debug mode for test and test suite
